@@ -1,4 +1,4 @@
-# X-wing-Custom-Storage-Bins
+# X-wing Custom Storage Bins
 
 This project is for the creation of 3D printable custom storage bins designed to fit models and accessories for Fantasy Flight Games' X-wing Miniature game. The goal of this project is to create a standard set of custom storage bins that can be used with various storage containers such as Harbor Frieghts' Medium Portable Parts Storage Case and Stanley Shallow Professional Organizer. Depending on need and avalibility of other containers the project may be expanded to fit them as well but for now the project will be focusing on those storage containers as they are what I currently have in my possesion.
 
