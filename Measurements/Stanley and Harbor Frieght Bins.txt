@@ -7,14 +7,14 @@ Harbor Frieght Small
 Harbor Frieght Medium
 46.5mm tall
 48.6mm tall with legs
-84.5mm wide
+80mm wide
 54mm length
 
 Harbor Frieght Large
 46.5mm tall
 48.6mm tall with legs
-114.5mm wide
-84.5mm length
+109.3mm wide
+80mm length
 
 Stanley Small
 40.8 tall
