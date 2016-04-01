@@ -21,7 +21,9 @@ E­Wing - Done
 
 B­Wing - In Progress
 
-K­wing - In Progress
+K­wing - Done
+
+VCX-100 & Attack Shuttle - Planned
 
 YT­2400 - Planned
 
@@ -35,7 +37,9 @@ M­3A - Done
 
 Kihraxz - In Progress
 
-Starviper - Planned 
+Starviper - In Progress 
+
+G-1A Fighter -Planned
 
 IG­2000 - Planned
 
@@ -43,9 +47,11 @@ Firespray - Planned
 
 Defender - Planned
 
-Tie Fighter/FO -Planned
+Tie Fighter/FO - Done
 
 Tie advanced - Planned
+
+Tie Adv. Prototype -planned
 
 Tie Bomber - Planned
 
@@ -58,3 +64,5 @@ Tie Punisher - Planned
 Decimator - Planned
 
 Lamda Shuttle - Planned
+
+
